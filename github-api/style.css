@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(126, 125, 125);
+}
+
+#fotoPerfil{
+    margin-top: 10px;
+    border-radius: 50%;
+    height: 400px;
+    width: 400px;
+}
+
+#container{
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+}
+
+.repositorios{
+    display: flex;
+    margin: 3px;
+    background-color: rgb(61, 163, 165);
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 15px;
+}
+
+p{
+    padding: 2px;
+}
